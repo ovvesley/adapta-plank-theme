@@ -59,10 +59,33 @@ InnerStrokeColor=1000;;1000;;1000;;0
 
 ### Instalação
 
-"
-  
+```
+############ How to install themes for Plank Dock?? ############
+
+>>>>>>>>>> If you don't have Plank Dock installed <<<<<<<<<< 
+>>> Install it with the command:
+```
+`sudo apt install plank`
+
+```>>>>>>>> FOR ROOT DIRECTORY: Open the terminal and type: 
+"sudo apt nautilus" or whatever your file manager is.
+Copy and paste the extracted files in the next path: 
+"/usr/share/plank/themes" ```
 
 
+
+>>>>>>>> FOR LOCAL DIRECTORY: Press the ctrl + h keys.
+Now the hidden files will be shown. 
+Copy and paste the extracted files in the next path:
+".local/share/plank/themes"
+
+
+>>>>>>>> Now, press the Plank Dock Icon or ctrl + right click
+on any place in Plack Dock to show the preferences menu. 
+Got to "THEME" and choose any Dockjave theme.
+
+| ---------------------------------------------------------------------------------------- |
+```
   
   
 
