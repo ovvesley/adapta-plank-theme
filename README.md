@@ -8,7 +8,12 @@
   <h2 align="center">Plank Theme - Adapta</h2>
   
 -----
-![alt](amostra/default.gif)
+<p align="center">
+  
+  <img src="amostra/default.gif">
+  
+</p>
+
 ```
 #The color (RGBA) of the outer stroke.
 OuterStrokeColor=20;;25;;40;;200
@@ -20,11 +25,21 @@ FillEndColor=38;;50;;56;;500
 InnerStrokeColor=20;;25;;40;;0
 
 ```
-![alt](amostra/default.png)
+<p align="center">
+  
+  <img src="amostra/default.png">
+  
+</p>
 
 
 
-![alt](amostra/border.gif)
+
+<p align="center">
+  
+  <img src="amostra/border.gif">
+  
+</p>
+
 ```
 #The color (RGBA) of the outer stroke.
 OuterStrokeColor=20;;25;;40;;0
@@ -36,13 +51,22 @@ FillEndColor=34;;45;;50;;1000
 InnerStrokeColor=1000;;1000;;1000;;0
 
 ```
+<p align="center">
+  
+  <img src="amostra/border.png">
+  
+</p>
 
-![alt](amostra/border.png)
 
 
 
 
-![alt](amostra/greenwhite.gif)
+<p align="center">
+  
+  <img src="amostra/greenwhite.gif">
+  
+</p>
+
 ```
 #The color (RGBA) of the outer stroke.
 OuterStrokeColor=20;;25;;40;;0
@@ -54,10 +78,15 @@ FillEndColor=128;;203;;196;;100
 #The color (RGBA) of the inner stroke.
 InnerStrokeColor=1000;;1000;;1000;;0
 ```
-![alt](amostra/greenwhite.png)
+<p align="center">
+  
+  <img src="amostra/greenwhite.png">
+  
+</p>
 
 
-### Instalação
+
+### Install
 
 ```
 ############ How to install themes for Plank Dock?? ############
