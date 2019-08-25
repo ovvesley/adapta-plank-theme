@@ -96,7 +96,8 @@ InnerStrokeColor=1000;;1000;;1000;;0
 ```
 `sudo apt install plank`
 
-```>>>>>>>> FOR ROOT DIRECTORY: Open the terminal and type: 
+```
+>>>>>>>> FOR ROOT DIRECTORY: Open the terminal and type: 
 "sudo apt nautilus" or whatever your file manager is.
 Copy and paste the extracted files in the next path: 
 "/usr/share/plank/themes" ```
